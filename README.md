@@ -1,4 +1,4 @@
-# ExOS - Simple OS
+# Terra - A simple OS
 A lightweight, simple 64-bit OS started in Spring 2026
 
 ## Author
@@ -9,7 +9,7 @@ Tristan Rush
 - [References](#references)
 
 ## Introduction
-ExOS is a small operating system developed for a college research project.\
+Terra is a small operating system developed for a college research project.\
 My goal is to create a stable, light-weight, easy-to-use OS.
 
 ## References
